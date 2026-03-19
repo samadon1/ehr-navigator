@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "Synthea-generated FHIR R4 patient data for EHR Navigator",
+  "patients": [
+    "patient_derek.json",
+    "patient_lola.json",
+    "patient_lazaro.json"
+  ],
+  "note": "Generated via Synthea - includes full patient history with vitals, labs, encounters, conditions, and medications"
+}

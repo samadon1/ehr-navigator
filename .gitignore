@@ -1,0 +1,32 @@
+# Large files
+*.jar
+*.gguf
+*.bin
+
+# Generated output
+output/
+
+# Separate repos/submodules
+cactus-flutter/
+
+# Jupyter notebooks (optional - uncomment to include)
+# *.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+*.swp
+
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+*.lock
+!pubspec.lock
+
+# Logs
+*.log
