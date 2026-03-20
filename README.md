@@ -1,4 +1,5 @@
-# EHR Navigator: On-Device AI Agent for Healthcare
+# My Ghana AI Research Network(GAIN) Presentation + Code
+## EHR Navigator: On-Device AI Agent for Healthcare
 
 An on-device AI agent that navigates Electronic Health Records (EHR) using FHIR standards, with built-in clinical decision support for patient safety.
 
